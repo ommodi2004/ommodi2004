@@ -31,8 +31,8 @@ const developer = {
 - 🌱 I'm currently learning **Machine Learning & AI**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, Python**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
+- 📫 How to reach me: **ommodi129@gmail.com**
+- ⚡ Fun fact: **I can cook very well.**
 
 ---
 
@@ -84,7 +84,7 @@ const developer = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats65
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
